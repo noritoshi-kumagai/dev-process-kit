@@ -1,0 +1,1 @@
+import{b1 as t,b2 as a,a5 as i,b3 as n}from"./shared-hrghWtVh.js";const o=t(class extends a{constructor(){super(...arguments),this.key=i}render(s,e){return this.key=s,e}update(s,[e,r]){return e!==this.key&&(n(s),this.key=e),r}});export{o as i};
